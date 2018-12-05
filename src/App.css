@@ -1,0 +1,33 @@
+
+.App {
+  text-align: center;
+  background-image: url("https://lh6.ggpht.com/KmJoxrW1kTvgC5oTdrFHoHLE6WzAp4X9x49z2VObHvflLh2HWQqQfQDuRVEKr5FDfSgtbVmvMm4QHIQPHVennvsXIq7jiznA8iCJvZ1Arw=s600");
+  margin: 35px
+}
+
+.container{
+  border: groove #b26fdff5;
+  height: 350px
+}
+
+button{
+  display: inline-block;
+  padding: 10px 20px;
+  text-align: center;
+  color: white;
+  background-color: #b26fdff5;
+  border-radius: 10px;
+  font-size: 20px;
+  border: none;
+  box-shadow: 0 8px #999;
+}
+
+button:hover {
+  background-color: #b26fdff5;
+}
+
+button:active {
+  background-color: #b26fdff5;
+  box-shadow: 0 5px #666;
+  transform: translateY(6px);
+}
